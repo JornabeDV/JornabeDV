@@ -20,7 +20,7 @@
 
 - 👯 I’m looking to collaborate on any kind of project that will give me more job experience.  
 
-- 💬 Talk to me about JavaScript, React.js, Node.js, Sequelize, Express, HTML, CSS, Bootstrap, Redux, and obviously a little about TypeScript and Angular. 
+- 💬 Talk to me about JavaScript, React.js, Node.js, Sequelize, Express, HTML, CSS, Bootstrap, Redux, PostgreSQL. 
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 50px> </h2>
 <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'>
