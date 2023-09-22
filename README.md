@@ -43,7 +43,7 @@
 <a href = 'https://www.github.com/JornabeDV'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 
 
-
+<br>
 
 <footer align='center'>Thanks for visiting!</footer>
 
