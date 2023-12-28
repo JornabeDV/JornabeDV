@@ -2,13 +2,13 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
 <h3 align="center">A passionate FullStack developer from Argentina</h3>
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning **Typescript and Next**
 
-- 👯 I’m looking to collaborate on **TNT Market**
+- 👯 I’m looking to collaborate on **No Country**
 
 - 👨‍💻 All of my projects are available at [JornabeDV](JornabeDV)
 
-- 💬 Ask me about **React, Javascript, Redux, PosgreSQL, CSS**
+- 💬 Ask me about **React, Javascript, Redux, PosgreSQL, SASS**
 
 - 📫 How to reach me **jorgebejarosa@gmail.com**
 
