@@ -15,10 +15,10 @@
 <h3 align="left">Connect with me:</h3>
 <a align="left" href="https://www.linkedin.com/in/jorge-nahuel-beja-rosa/" target="blank">💼</a>
 
-<h3 align="left">My Portfolio</h3>
+<h3 align="left">My Portfolio:</h3>
 <a align="left" href="https://jornabe-dv-portfolio.netlify.app/" target="blank">💻</a>
 
-<h3 align="left">Curriculum Vitae</h3>
+<h3 align="left">Curriculum Vitae:</h3>
 <a align="left" href="https://drive.google.com/drive/folders/1b7xBBSbygfOZR6OfDuJj1LsTrEgEBgW9" target="blank"> 📄</a>
 
 
