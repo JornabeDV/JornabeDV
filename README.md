@@ -19,7 +19,7 @@
 
 <h3 align="left">My Portfolio</h3>
 <p align="left">
-<a href="https://jornabe-dv-portfolio.netlify.app/" target="blank">👋</a>
+<h1 href="https://jornabe-dv-portfolio.netlify.app/" target="blank">👋</h1>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
