@@ -6,7 +6,7 @@
 
 - 👯 I’m looking to collaborate on **No Country**
 
-- 👨‍💻 All of my projects are available at [[JornabeDV](JornabeDV)](https://github.com/JornabeDV?tab=repositories)
+- 👨‍💻 All of my projects are available at [[JornabeDV](JornabeDV)]
 
 - 💬 Ask me about **React, Javascript, Redux, PosgreSQL, SASS**
 
