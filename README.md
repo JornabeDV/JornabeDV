@@ -23,7 +23,7 @@
 </p>
 
 <h3 align="left">Curriculum Vitae</h3>
-<a align="left" href="https://drive.google.com/drive/folders/1b7xBBSbygfOZR6OfDuJj1LsTrEgEBgW9" target="blank">📄</a>
+<a align="left" href="https://drive.google.com/drive/folders/1b7xBBSbygfOZR6OfDuJj1LsTrEgEBgW9" target="blank" height="30" width="40" >📄</a>
 
 
 <h3 align="left">Languages and Tools:</h3>
