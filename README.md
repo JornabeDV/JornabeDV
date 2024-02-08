@@ -6,7 +6,7 @@
 
 - 👯 I’m looking to collaborate on **No Country**
 
-- 👨‍💻 All of my projects are available at [[[JornabeDV](JornabeDV)]](https://jornabe-dv-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at https://jornabe-dv-portfolio.netlify.app/
 
 - 💬 Ask me about **React, Javascript, Redux, PosgreSQL, SASS**
 
