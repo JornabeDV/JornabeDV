@@ -13,10 +13,7 @@
 - ⚡ Fun fact **I'm speaking a lot!**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/jorge-nahuel-beja-rosa/" target="blank"><img align="center" src="![image](https://github.com/JornabeDV/JornabeDV/assets/103864663/1b6dc3a3-0b19-4c7a-8d14-aafc41f9ede4)
-" alt="jorge nahuel beja rosa" height="30" width="40" /></a>
-</p>
+<a align="left" href="https://www.linkedin.com/in/jorge-nahuel-beja-rosa/" target="blank">💼</a>
 
 <h3 align="left">My Portfolio</h3>
 <a align="left" href="https://jornabe-dv-portfolio.netlify.app/" target="blank">💻</a>
