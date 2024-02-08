@@ -6,8 +6,6 @@
 
 - 👯 I’m looking to collaborate on **No Country**
 
-- 👨‍💻<h4 >All of my projects are available at</h4><a href="@https://jornabe-dv-portfolio.netlify.app/"/></a> 
-
 - 💬 Ask me about **React, Javascript, Redux, PosgreSQL, SASS**
 
 - 📫 How to reach me **jorgebejarosa@gmail.com**
@@ -17,6 +15,11 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jorge nahuel beja rosa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jorge nahuel beja rosa" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">My Portfolio</h3>
+<p align="left">
+<a href="[https://linkedin.com/in/jorge nahuel beja rosa](https://jornabe-dv-portfolio.netlify.app/)" target="blank"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
