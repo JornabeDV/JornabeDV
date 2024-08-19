@@ -2,15 +2,13 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
 <h3 align="center">A passionate FullStack developer from Argentina</h3>
 
-- 🌱 I’m currently learning **Svelte**
+- 🌱 I love **Svelte** technology"
 
 - 👯 I’m looking to collaborate on **No Country**
 
 - 💬 Ask me about **React, Javascript, Redux, PosgreSQL, SASS**
 
 - 📫 How to reach me **jorgebejarosa@gmail.com**
-
-- ⚡ Fun fact **I'm speaking a lot!**
 
 <h3 align="left">Connect with me:</h3>
 <a align="left" href="https://www.linkedin.com/in/jorge-nahuel-beja-rosa/" target="blank">💼</a>
