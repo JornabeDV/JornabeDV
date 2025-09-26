@@ -4,9 +4,7 @@
 
 - 🌱 I love **Svelte** technology"
 
-- 👯 I’m looking to collaborate on **No Country**
-
-- 💬 Ask me about **React, Javascript, Redux, PosgreSQL, SASS**
+- 💬 Ask me about **Svelte, React, Javascript, Redux, PosgreSQL, SASS, Prisma**
 
 - 📫 How to reach me **jorgebejarosa@gmail.com**
 
